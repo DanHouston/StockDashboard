@@ -16,15 +16,18 @@ Test
 
 ---
 
-### How it works
+## How it works
+Test
 
 ---
 
-### Sample Charts & Explorer
+## Sample Charts & Explorer
+Test
 
 ---
 
-### Summary
+## Summary
+Test
 
 ---
 
