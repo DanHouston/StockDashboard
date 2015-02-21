@@ -20,6 +20,7 @@ knit        : slidify::knit2slides
 --- .class #id 
 
 ## Slide 2
+Test
 
 
 
